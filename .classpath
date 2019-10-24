@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Source/src"/>
+	<classpathentry kind="lib" path="Stratege/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Stratege/Stratege.jar"/>
+	<classpathentry kind="output" path="Source/build/classes"/>
+</classpath>
